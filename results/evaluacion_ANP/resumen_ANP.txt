@@ -1,0 +1,8 @@
+ANP: 360,473 px = 32,442.6 ha | escenas val=80 test=70
+N observaciones ANP: val=28,837,840 test=25,233,110 total=54,070,950
+Prevalencia ANP: val=0.844%  test=0.496%
+VAL 2023 (ANP): AUC-ROC=0.6800  AUC-PR=0.0135
+TEST 2024 (ANP): AUC-ROC=0.6446  AUC-PR=0.0077  baseline=0.0050  razón=1.54x
+Umbral F2 (val ANP) = 0.00960
+TEST: recall=0.2376 precision=0.0093 F2=0.0403 FPR=0.1259 TP=29,739 FP=3,161,280 FN=95,422 TN=21,946,669
+Área marcada 'flagged' media por escena = 4,103 ha (12.6 % del ANP)
